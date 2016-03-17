@@ -10,7 +10,7 @@ Learn you Node:
 
 This is a Proxy Server for Node.js submitted as the [pre-work](http://courses.codepath.com/snippets/intro_to_nodejs/prework) requirement for CodePath.
 
-Time spent: [Write the number of hours you spend here]
+Time spent: [four]
 
 Completed:
 
@@ -21,7 +21,6 @@ Completed:
 * [x] Required: Client requests and respones are printed to stdout
 * [x] Required: The `--logfile` argument outputs all logs to the file specified instead of stdout
 
-Time spent: 5
 
 Walkthrough Gif:
 ![Video Walkthrough](embedded_walkthrough.gif)
