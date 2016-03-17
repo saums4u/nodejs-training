@@ -21,7 +21,7 @@ Completed:
 * [x] Required: Client requests and respones are printed to stdout
 * [x] Required: The `--logfile` argument outputs all logs to the file specified instead of stdout
 
-Time spent: [5]
+Time spent: 5
 
 Walkthrough Gif:
 ![Video Walkthrough](embedded_walkthrough.gif)
