@@ -10,7 +10,7 @@ Learn you Node:
 
 This is a Proxy Server for Node.js submitted as the [pre-work](http://courses.codepath.com/snippets/intro_to_nodejs/prework) requirement for CodePath.
 
-Time spent: [four]
+Time spent: [4]
 
 Completed:
 
